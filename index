@@ -1,0 +1,21 @@
+<!<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inttial-scale=1.0">
+    <title>Document</title>
+    </head>
+    <body>
+        <!-- header z menu -->
+		<!-- pliki html puste ale z menu z jakimś tekstem-->
+		
+		header 
+		ul
+			li -> link -> link1 -> href="#"
+			li -> link -> link2 -> href="#"
+			li -> link -> link3 -> href="#"
+			li -> link -> link4 -> href="#"
+         
+		 <script src="./scripts/app.js"></script>
+    </body>
+    </html>
